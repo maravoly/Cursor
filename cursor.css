@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin-top: 50px;
+    color:blueviolet;
+    margin-left: 600px;
+    padding-bottom: 50px;
+}
+
+#img,#img1,#img2,#img3{
+    width: 300px;
+    height: auto;
+    margin-left: 50px;
+}
